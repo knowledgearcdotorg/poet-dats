@@ -1,0 +1,19 @@
+{
+    "name": "knowledgearcdotorg/poet-dats",
+    "description": "Po.et Digital Asset Timestamp.",
+    "type": "web",
+    "keywords": ["Po.et","Digital Asset","Timestamp","EXIF"],
+    "homepage": "http://knowledgearc.org",
+    "time": "2018-03-14",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Hayden Young",
+            "email": "hayden@knowledgearc.com"
+        }
+    ],
+    "require": {
+        "PHP" : ">=7.0",
+        "lsolesen/pel": "0.9.*"
+    }
+}
